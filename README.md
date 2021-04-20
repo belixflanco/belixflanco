@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @belixflanco
+- 👀 I’m (currently) interested in robotics, controls, embedded system design, and bio-engineering.
+- 🌱 I’m currently learning all the things!
+- 💞️ I’m looking to collaborate on drones, space crafts, autonomous vehicles, and BMI.
+- 📫 How to reach me? I reach you.
